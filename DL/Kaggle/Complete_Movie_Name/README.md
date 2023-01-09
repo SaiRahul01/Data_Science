@@ -5,3 +5,4 @@
 3. Dataset of the trained dataset can be found [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 ## Model Summary
+![image](https://user-images.githubusercontent.com/84556711/211328076-aef03e55-f4ad-472b-b650-c3379d013263.png)
